@@ -1,0 +1,39 @@
+
+
+.header{
+    height: auto;
+    width: 80%;
+    margin: auto;
+}
+
+.header-name{
+    text-align: center;
+    font-size: 2.3em;
+    padding-top: 20px;
+    color: #00386C;
+}
+
+.btn-div{
+    padding-top: 2%;
+}
+
+.input-field label{
+    font-size: 19px;
+}
+.input-field input{
+    font-size: 25px;
+}
+
+.btn-div button,.btn-div a{
+    z-index: 100;
+    background: #000000;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.btn-div button:hover, .btn-div a:hover{
+    z-index: 100;
+    background: #000000;
+    font-size: 18px;
+    font-weight: bold;
+}
